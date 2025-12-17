@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "終点",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2025-12-17T16:18:13.987737Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "終点",
+      "artist": "cosMo＠暴走P feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/01_終点_cosMo@暴走P_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "終点",
+      "artist": "cosMo＠暴走P",
+      "has_synced": true,
+      "path": "select/02_終点_cosMo@暴走P.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "終点",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/03_終点_Mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Capolinea / 終点",
+      "artist": "Quercia",
+      "has_synced": true,
+      "path": "select/04_Capolinea___終点_Quercia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "終点",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/05_終点_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "終点",
+      "artist": "cosMo@暴走P",
+      "has_synced": true,
+      "path": "select/06_終点_cosMo@暴走P.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "終点",
+      "artist": "cosMo@BousouP feat. Hatsune, Miku",
+      "has_synced": true,
+      "path": "select/07_終点_cosMo@BousouP_feat._Hatsune,_Miku.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "終点",
+      "artist": "cosMo@BousouP",
+      "has_synced": true,
+      "path": "select/08_終点_cosMo@BousouP.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "終点",
+      "artist": "cosMo@暴走P Feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/09_終点_cosMo@暴走P_Feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "終点 (THE END)",
+      "artist": "cosMo@bousouP",
+      "has_synced": true,
+      "path": "select/10_終点_(THE_END)_cosMo@bousouP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "終点",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_終点_DUSTCELL.txt"
+    }
+  ]
+}
